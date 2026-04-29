@@ -26,3 +26,6 @@ python main.py
 ```
 ## Output
 ![Graph Output](screenshot/graph.png)
+
+## Author
+Somi
